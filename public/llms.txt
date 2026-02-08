@@ -1,0 +1,53 @@
+# משכנתא אונליין — Generative Engine Optimization Map
+
+> A פיננסים ומשכנתאות business.
+
+---
+
+## Pages
+
+### Home
+https://-a125e04e.zappy5.app
+
+### About
+https://-a125e04e.zappy5.app/about
+
+### Services
+https://-a125e04e.zappy5.app/services
+
+### Contact
+https://-a125e04e.zappy5.app/contact
+
+## Legal & Policy
+
+### Privacy Policy
+https://-a125e04e.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://-a125e04e.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://-a125e04e.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+# Business Context (for LLM understanding)
+
+## About משכנתא אונליין
+משכנתא אונליין is a business in the פיננסים ומשכנתאות industry.
+
+## Target Audience
+בעלי משכנתאות המעוניינים למחזר משכנתא
+
+## Industry
+פיננסים ומשכנתאות
+
+---
+
+# Additional Resources
+
+- **Sitemap**: https://-a125e04e.zappy5.app/sitemap.xml
+- **Robots.txt**: https://-a125e04e.zappy5.app/robots.txt
